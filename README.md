@@ -22,6 +22,7 @@ This is how I see a simple flow breakdown.
 - Octopus Energy Agile tariff API
 - Solcast (solar PV generation forecasts)
 - Wind forecasting (usually a direct correlation between wind / renewables and cheaper prices on Agile)
+- UK Carbon intensity
 - Dark Sky?
 
 
