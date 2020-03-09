@@ -42,13 +42,10 @@ The number one mandate I see for this is that it has low entry requirements, ie 
 
 ## Points for discussion
 
-Maybe github isn't the best place to discuss this, maybe there are better places / forums that to happen.  Ideas please?
-
-Are there projects already out there doing something similar, please link.
-
-Are there more inputs worth considering?
-
-Anything around this idea of logic around time of use tariffs and weather forecasting would be fantastic.
+- Maybe github isn't the best place to discuss this, maybe there are better places / forums that to happen.  Ideas please?
+- Are there projects already out there doing something similar, please link.
+- Are there more inputs worth considering?
+- Anything around this idea of logic around time of use tariffs and weather forecasting would be fantastic.
 
 Please add anything as a comment in the issue: Discussions points and comments here
 https://github.com/zarch1972/openenergeia/issues
