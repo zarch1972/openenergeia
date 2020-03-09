@@ -26,7 +26,7 @@ Logic Box / The Brains
 - Take the inputs along with the battery SOC, make decisions about when to overnight(or daytime) charge
 
 Outputs
-Battery APIs (Lux / Powerwall / more to come).  There are only a few states; SOC (% full), charge, discharge, be idle.
+- Battery APIs (Lux / Powerwall / more to come).  There are only a few states; SOC (% full), charge, discharge, be idle.
 
 And finally, a very simple web-based front end.
 
