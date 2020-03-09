@@ -3,7 +3,7 @@ Discuss possible collaborative energy tariff / forecasting / battery project
 
 Early spring 2020 has seen many a project spring up around the Octopus Energy API and battery charging.
 
-See discussions in tweets from https://twitter.com/energystatsuk
+See discussions in tweets from https://twitter.com/energystatsuk and inspired by my website: https://www.energy-stats.uk/
 
 Folk have been created solutions for the Lux Inverter and the Tesla Powerwall.
 https://github.com/celsworth/octolux
