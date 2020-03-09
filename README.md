@@ -24,7 +24,7 @@ This is how I see a simple flow breakdown.
 - Wind forecasting (usually a direct correlation between wind / renewables and cheaper prices on Agile)
 - UK Carbon intensity
 - Dark Sky (for weather / cloud forecasting)
-- Local configuration parameters (number of batteries, size of batteries, target % full etc)
+- Local configuration parameters (number of batteries, size of batteries, target % full, daily electrical kWh usage etc)
 
 
 ## Logic Box / The Brains
