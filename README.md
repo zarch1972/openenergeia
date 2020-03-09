@@ -30,8 +30,8 @@ Logic Box / The Brains
 Outputs
 - Battery APIs (Lux / Powerwall / more to come).  There are only a few states; SOC (% full), charge, discharge, be idle.
 
-
-And finally, a very simple web-based front end.
+Front-end
+- A very simple web-based front end.
 
 The number one mandate I see for this is that it has low entry requirements, ie it runs on something as simple and cheap as a Raspberry Pi Zero W
 
