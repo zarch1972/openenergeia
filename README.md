@@ -23,7 +23,7 @@ This is how I see a simple flow breakdown.
 - Solcast (solar PV generation forecasts)
 - Wind forecasting (usually a direct correlation between wind / renewables and cheaper prices on Agile)
 - UK Carbon intensity
-- Dark Sky?
+- Dark Sky (for weather / cloud forecasting)
 
 
 ## Logic Box / The Brains
