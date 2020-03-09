@@ -17,13 +17,13 @@ In addition, logic code in the middle that made decisions based on incoming info
 This is how I see a simple flow breakdown.
 
 Inputs
-Octopus Energy Agile tariff API
-Solcast (solar PV generation forecasts)
-Wind forecasting (usually a direct correlation between wind / renewables and cheaper prices on Agile)
-Dark Sky?
+- Octopus Energy Agile tariff API
+- Solcast (solar PV generation forecasts)
+- Wind forecasting (usually a direct correlation between wind / renewables and cheaper prices on Agile)
+- Dark Sky?
 
-Logic Box
-Take the inputs along with the battery SOC, make decisions about when to overnight(or daytime) charge
+Logic Box / The Brains
+- Take the inputs along with the battery SOC, make decisions about when to overnight(or daytime) charge
 
 Outputs
 Battery APIs (Lux / Powerwall / more to come).  There are only a few states; SOC (% full), charge, discharge, be idle.
