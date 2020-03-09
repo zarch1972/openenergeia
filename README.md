@@ -27,7 +27,7 @@ This is how I see a simple flow breakdown.
 
 
 ## Logic Box / The Brains
-- Take the inputs along with the battery SOC, make decisions about when to overnight(or daytime) charge
+- Take the inputs (from above) along with the battery SOC(%), make decisions about when to overnight(or daytime) charge
 
 
 ## Outputs
